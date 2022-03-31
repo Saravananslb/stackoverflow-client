@@ -1,0 +1,14 @@
+.qstn-head span {
+    margin-left: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.qstn-head {
+    text-align: left;
+}
+
+.selected {
+    padding: 5px;
+    border: 1px solid #0074cc;
+}

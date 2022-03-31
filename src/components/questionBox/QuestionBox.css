@@ -1,0 +1,9 @@
+.qstn-head span {
+    margin-left: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.qstn-head {
+    text-align: left;
+}
